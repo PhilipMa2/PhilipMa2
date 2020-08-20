@@ -1,4 +1,4 @@
-# Philip Ma's GitHub Profile 👋
+<img src="https://media.giphy.com/media/VJ6XxwlymvYSOeaiu5/giphy.gif">
 
 Welcome to my public profile!
 
