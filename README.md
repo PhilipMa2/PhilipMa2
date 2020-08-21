@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/Up82SKlKee1WK98kJB/giphy.gif">
+<img src="https://media.giphy.com/media/Up82SKlKee1WK98kJB/giphy.gif" alt="Hello World! I'm Philip Ma" width="1000">
 
 Welcome to my public profile!
 
