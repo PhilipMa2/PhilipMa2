@@ -7,7 +7,10 @@ const instance = new TypeIt('#typewriter', {
   lifelike: true,
   loop: true
 })
-  .type("Hello World! I'm Philip Ma,")
+  .type('<span style="font-family: Segoe UI Emoji">😄</span>', {
+    html: true
+  })
+  .type("Hello World!<br>I'm Philip Ma,")
   .pause(1000)
   .move(-4)
   .delete(6)
