@@ -13,7 +13,7 @@ I'm a college student majoring in Mathematics. In my free time, I love to learn 
 - Java and data structure
 
 ### ⚡ Fun facts about me
-- My favorite emoji: <img src="image/facepalm.jpg" width="40">
+- My favorite emoji: ![facepalm](/assets/facepalm.jpg)
 
 I have recently completed the online courses for [Learn Enough to be Dangerous](https://www.learnenough.com) series. These are the badges that I have earned.
 
